@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:simple_debugger/console_logs/controller/console_log_controller.dart';
 import 'package:simple_debugger/core/logger_theme.dart';
-import 'package:simple_debugger/widgets/controller_provider.dart';
+import 'package:simple_debugger/global_widgets/controller_provider.dart';
 
 /// Page for Console logs.
 class ConsoleLogsView extends StatelessWidget {

@@ -12,6 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   logger: ^2.4.0
+  colored_json: ^1.1.2
 
 dev_dependencies:
   flutter_lints: ^2.0.0
