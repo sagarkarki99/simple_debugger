@@ -1,7 +1,8 @@
 name: simple_debugger
 description: A new Flutter package project.
 version: 0.0.1
-homepage: A simple utility package that shows console logs, network logs, device informations in UI.
+homepage: A simple utility package that shows console logs, network logs, device
+  informations in UI.
 
 environment:
   sdk: ">=3.0.2 <4.0.0"
@@ -10,10 +11,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  logger: ^2.4.0
 
 dev_dependencies:
+  flutter_lints: ^2.0.0
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
 
-flutter:
+flutter: null
